@@ -3,7 +3,7 @@ import twodoc from "./../../../public/images/twodoc.png"
 
 const WhoWeAre = () => {
   return (
-    <div className="flex justify-between">
+    <div className="flex justify-between mb-[160px]">
       <div>
         <div className="flex">
           <p className="px-[25px] py-[10px] border-[#343268] border-2 rounded-full">
