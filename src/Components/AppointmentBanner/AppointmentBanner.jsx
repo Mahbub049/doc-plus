@@ -2,9 +2,9 @@ import { GoArrowUpRight } from "react-icons/go";
 
 const AppointmentBanner = () => {
   return (
-    <div className="bg-[linear-gradient(90deg,rgba(2,0,67,1),rgba(2,0,67,0.50)),url(./../../../public/images/appointment.png)] bg-no-repeat bg-cover h-[570px] rounded-[48px] my-[40px] flex items-center pl-[60px] relative mb-[160px]">
+    <div className="bg-[linear-gradient(90deg,rgba(2,0,67,1),rgba(2,0,67,0.50)),url(https://i.ibb.co/db5fFNq/appointment.png)] bg-no-repeat bg-cover h-[570px] rounded-[48px] my-[40px] flex items-center pl-[60px] relative mb-[160px]">
         <div className="absolute flex justify-end w-full h-full">
-            <img src="./../../../public/images/logolight.png" className="w-[124px] mt-[80px] mr-[120px] h-[33px]" alt="" />
+            <img src="https://i.ibb.co/RT0kzhH/logolight.png" className="w-[124px] mt-[80px] mr-[120px] h-[33px]" alt="" />
         </div>
       <div className="">
         <h3 className="text-[40px] w-[350px] font-semibold text-white">

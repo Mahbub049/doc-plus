@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="footer container mx-auto text-white p-10 py-[120px]">
         <aside>
           <img
-            src="./../../../public/images/logolight.png"
+            src="https://i.ibb.co/RT0kzhH/logolight.png"
             className="mb-[33px]"
           ></img>
           <p>
