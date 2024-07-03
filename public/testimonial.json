@@ -1,0 +1,26 @@
+[
+    {
+        "avatar": "https://i.ibb.co/gmbvmk5/sarah.png",
+        "title": "Expertise and Compassion Combined",
+        "post": "I can't thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.",
+        "name": "Sarah D",
+        "position": "IT Professional",
+        "rating": "5"
+    },
+    {
+        "avatar": "https://i.ibb.co/6NjJ6W0/michael.png",
+        "title": "Expertise and Compassion Combined",
+        "post": "My experience at [Healthcare Provider Name] was life-changing. The prompt and accurate diagnosis, coupled with the advanced treatments they provided, saved my life.",
+        "name": "Michael R",
+        "position": "Business Executive",
+        "rating": "4"
+    },
+    {
+        "avatar": "https://i.ibb.co/DtQsn4d/David.png",
+        "title": "A Partner in Health and Wellness",
+        "post": "As a busy professional, I appreciate the convenience and quality of care I receive at [Healthcare Provider Name]. From telemedicine consultations to routine check-ups, they've become my trusted partner in health and",
+        "name": "David S",
+        "position": "Lawyer",
+        "rating": "5"
+    }
+]

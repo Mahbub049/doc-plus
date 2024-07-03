@@ -10,7 +10,7 @@ const Service = () => {
         .then(data=>setServiceData(data))
     },[])
   return (
-    <div className="grid grid-cols-2 gap-10">
+    <div className="grid grid-cols-2 gap-10 mb-[160px]">
       <div className="flex-1">
         <div className="flex">
           <p className="px-[25px] py-[10px] border-[#343268] border-2 rounded-full">

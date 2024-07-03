@@ -20,10 +20,10 @@ const Report = () => {
       <div className="grid grid-cols-5 gap-5 items-end -mt-[115px]">
         <div className="border-2 rounded-[24px] p-8 h-[312px]">
           <h3 className="text-[40px] font-semibold">90%</h3>
-          <p className="w-[156px] mt-2 mb-6">
+          <p className="w-[156px] mt-2 mb-4">
             Patient satisfaction rate, reflecting our commitment.
           </p>
-          <img className="mx-auto" src={graph} alt="" />
+          <img className="mx-auto w-[100px]" src={graph} alt="" />
         </div>
         <div className="border-2 rounded-[24px] p-8 h-[200px]">
           <h3 className="text-[40px] font-semibold">500+</h3>
