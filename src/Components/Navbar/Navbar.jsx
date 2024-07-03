@@ -1,3 +1,4 @@
+import { GoArrowUpRight } from 'react-icons/go';
 import logo from './../../../public/images/logo dark.png';
 
 const Navbar = () => {
@@ -44,7 +45,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-outline rounded-[12px]">Appointment</a>
+          <a className="btn btn-outline rounded-[12px]">Appointment <GoArrowUpRight className='text-xl'></GoArrowUpRight> </a>
         </div>
       </div>
     </div>
